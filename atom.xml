@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-10-22T13:51:32.129Z</updated>
+  <updated>2019-10-23T05:03:17.250Z</updated>
   <id>/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="/2019/10/22/hello-world/"/>
     <id>/2019/10/22/hello-world/</id>
     <published>2019-10-22T13:51:32.129Z</published>
-    <updated>2019-10-22T13:51:32.129Z</updated>
+    <updated>2019-10-23T05:03:17.250Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;这是本蒟蒻搭建的第二个博客&lt;/p&gt;
+&lt;p&gt;为什么要搭建这个博客呢…是因为有一次在找随机图片的API的时候，突然发现了一个名叫后宫学长的大佬，很喜欢他的主题，就想做一个类似的，在他的博文内我看到了另外一个大佬，名字叫樱花庄的白猫，他把他的主题发布在Github上面，我就按照他
         
       
     
